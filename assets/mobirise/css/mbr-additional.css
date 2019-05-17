@@ -1821,7 +1821,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rql12zcMPk {
-  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
+  background-image: url("../../../assets/images/5546923175-5ccff09b5a-o-2000x1330.jpg");
 }
 .cid-rql12zcMPk .icons-media-container {
   display: flex;
@@ -3869,85 +3869,183 @@ body {
 .cid-rqmb93gVdp .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rqmHwLPR2R {
+.cid-rqIoQ2cUPs {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rqmHwLPR2R .mbr-section-subtitle {
+.cid-rqIoQ2cUPs .mbr-section-subtitle {
   color: #767676;
+  font-weight: 300;
 }
-.cid-rqmHwLPR2R .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rqIoQ2cUPs .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
 }
-.cid-rqmHwLPR2R .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-rqIoQ2cUPs .card_cont {
+  -o-transition: all .5s;
+  -ms-transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  background-color: #eee;
 }
-.cid-rqmHwLPR2R .team-item .item-image img {
+.cid-rqIoQ2cUPs .card-front {
+  z-index: 2;
+  padding: 0;
   width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
-.cid-rqmHwLPR2R .team-item .item-name p {
-  margin-bottom: 0;
+.cid-rqIoQ2cUPs .card-front img {
+  height: 100%;
+  min-width: 100%;
+  width: auto;
 }
-.cid-rqmHwLPR2R .team-item .item-role p {
-  margin-bottom: 0;
+.cid-rqIoQ2cUPs .card_back {
+  width: 100%;
+  height: 100%;
+  padding: 30px 30px;
+  color: #ffffff;
+  background-color: #b2ccd2;
+  z-index: 1;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
 }
-.cid-rqmHwLPR2R .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
+.cid-rqIoQ2cUPs .card {
+  min-height: 300px;
 }
-.cid-rqmHwLPR2R .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
+.cid-rqIoQ2cUPs .card:hover .card-front {
+  z-index: 1;
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
 }
-.cid-rqmHwLPR2R .team-item .item-caption {
-  background: #efefef;
+.cid-rqIoQ2cUPs .card:hover .card_back {
+  z-index: 2;
+  -o-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
 }
-.cid-rqqPCDSJ0X {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rqIoQ2cUPs .builderCard .card_back {
+  border-bottom-left-radius: 100px;
+}
+.cid-rqIoQ2cUPs .builderCard .card_cont {
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidd;
+  -moz-backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+.cid-rqIrf2yabj {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rqqPCDSJ0X .mbr-section-subtitle {
+.cid-rqIrf2yabj .mbr-section-subtitle {
   color: #767676;
+  font-weight: 300;
 }
-.cid-rqqPCDSJ0X .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rqIrf2yabj .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
 }
-.cid-rqqPCDSJ0X .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-rqIrf2yabj .card_cont {
+  -o-transition: all .5s;
+  -ms-transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  background-color: #eee;
 }
-.cid-rqqPCDSJ0X .team-item .item-image img {
+.cid-rqIrf2yabj .card-front {
+  z-index: 2;
+  padding: 0;
   width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
-.cid-rqqPCDSJ0X .team-item .item-name p {
-  margin-bottom: 0;
+.cid-rqIrf2yabj .card-front img {
+  height: 100%;
+  min-width: 100%;
+  width: auto;
 }
-.cid-rqqPCDSJ0X .team-item .item-role p {
-  margin-bottom: 0;
+.cid-rqIrf2yabj .card_back {
+  width: 100%;
+  height: 100%;
+  padding: 30px 30px;
+  color: #ffffff;
+  background-color: #b2ccd2;
+  z-index: 1;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
 }
-.cid-rqqPCDSJ0X .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
+.cid-rqIrf2yabj .card {
+  min-height: 300px;
 }
-.cid-rqqPCDSJ0X .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
+.cid-rqIrf2yabj .card:hover .card-front {
+  z-index: 1;
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
 }
-.cid-rqqPCDSJ0X .team-item .item-caption {
-  background: #efefef;
+.cid-rqIrf2yabj .card:hover .card_back {
+  z-index: 2;
+  -o-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+.cid-rqIrf2yabj .builderCard .card_back {
+  border-bottom-left-radius: 100px;
+}
+.cid-rqIrf2yabj .builderCard .card_cont {
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidd;
+  -moz-backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
 }
 .cid-rqsf8thAFt {
   padding-top: 135px;
